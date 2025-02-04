@@ -1,2 +1,3 @@
-# risks
-ECC Risk Management
+# ECC Governance
+
+- [ECC Risk Management](/risk-management/)
